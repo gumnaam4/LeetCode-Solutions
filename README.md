@@ -16,7 +16,7 @@ Solutions are organized by topic:
 
 ## Language
 
-Most solutions are written in **C++**.
+Most solutions are written in **Python3**.
 
 ## Author
 
