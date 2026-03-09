@@ -20,4 +20,4 @@ Most solutions are written in **Python3**.
 
 ## Author
 
-Gumnaam
+Aayush aka Gumnaam
