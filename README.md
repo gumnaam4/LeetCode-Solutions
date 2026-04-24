@@ -21,4 +21,4 @@ Most solutions are written in **Python3**.
 
 ## Author
 
-Aayush aka Gumnaam
+Aayush
