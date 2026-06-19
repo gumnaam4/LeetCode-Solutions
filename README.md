@@ -9,6 +9,7 @@ Solutions are organized by topic:
 
 * Arrays
 * Strings
+* Hashing
 * Linked List
 * Trees
 * Graphs
@@ -20,4 +21,4 @@ Most solutions are written in **Python3**.
 
 ## Author
 
-Aayush aka Gumnaam
+Aayush
